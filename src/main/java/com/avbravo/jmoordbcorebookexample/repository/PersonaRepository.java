@@ -3,7 +3,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Interface.java to edit this template
  */
 package com.avbravo.jmoordbcorebookexample.repository;
-
 import com.avbravo.jmoordbcorebookexample.model.Persona;
 import com.jmoordb.core.annotation.repository.Repository;
 import com.jmoordb.core.repository.CrudRepository;

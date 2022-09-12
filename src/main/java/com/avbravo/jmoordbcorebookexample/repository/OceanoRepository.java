@@ -4,6 +4,7 @@
  */
 package com.avbravo.jmoordbcorebookexample.repository;
 
+
 import com.avbravo.jmoordbcorebookexample.model.Oceano;
 import com.jmoordb.core.annotation.repository.Repository;
 import com.jmoordb.core.repository.CrudRepository;
